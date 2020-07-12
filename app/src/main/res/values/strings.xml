@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Truth Or Dare</string>
+    <string name="player_4">Player 4</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_3">Player 3</string>
+    <string name="image">image</string>
+    <string name="into_name">Truth Or Dare ? What will you choose ?</string>
+</resources>
